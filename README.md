@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Welcome to My Github! 🌟
 
 Hello! I'm Jasper Rodriguez and this is my personal user site where I showcase my accomplishments and projects. Feel free to explore and learn more about what I do.
+I'm currently building up my repo at the moment, so excuse the vast emptiness~
 
 ### About Me 👋
 
@@ -34,9 +35,9 @@ Hello! I'm Jasper Rodriguez and this is my personal user site where I showcase m
 
 Here are some of the projects I've been working on:
 
-1. **Project Name 1** - Brief description of what this project is about.
-2. **Project Name 2** - Brief description of what this project is about.
-3. **Project Name 3** - Brief description of what this project is about.
+1. **Project Name 1** - Brief description of what project is about.
+2. **Project Name 2** - Brief description of what project is about.
+3. **Project Name 3** - Brief description of what project is about.
 
 ### Accomplishments 🏆
 
@@ -52,8 +53,8 @@ Here are some of the projects I've been working on:
 
 ### Contact Me 📬
 
-Feel free to reach out to me via [Your Preferred Contact Method].
+Feel free to reach out to me via email[mskonatta@gmail.com].
 
 ---
 
-Thank you for visiting my user site! 😊
+Thank you for visiting my github! 😊
