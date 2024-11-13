@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Welcome to My Github! 🌟
 
-Hello! I'm Jasper Rodriguez and this is my personal user site where I showcase my accomplishments and projects. Feel free to explore and learn more about what I do.
+Hello! I'm Jasper Rodriguez and this is my personal repo where I store my projects. Feel free to explore and learn more about what I do.
 I'm currently building up my repo at the moment with my previous works, so please excuse the vast emptiness~
 
 ### About Me 👋
@@ -38,9 +38,9 @@ of their anime/manga list. **Status: Offline**
 
 ### Accomplishments 🏆
 
-- **DevNet Associate** - Awarded to 
-- **It Specialist - Python & Java** - Description of the accomplishment.
-- **CCNA: Introduction to Networks** - Description of the accomplishment.
+- **DevNet Associate** - Foundational knowledge in software development and network automation.
+- **It Specialist - Python & Java** - Demonstration of bavkground knowledge in mentioned languages.
+- **CCNA: Introduction to Networks** - Foundational knowledge in networking, including network protocols, IP addressing, and routing.
 
 ### Skills 🛠️ (at least foundational knowledge)
 
